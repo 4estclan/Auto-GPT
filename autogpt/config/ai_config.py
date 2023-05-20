@@ -1,4 +1,3 @@
-ggpt# sourcery skip: do-not-use-staticmethod
 """
 A module that contains the AIConfig class object that contains the configuration
 """
